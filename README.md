@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabricio-Viana
-- 👀 I’m interested in JAVA, C#, C++ and Python
-- 🌱 I’m currently learning JAVA AND C# 
+- 👀 I’m interested in JAVA, and javascript e ruby.
+- 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me +55 61 992812209 or fabricio.viana.2301@gmail.com
 
