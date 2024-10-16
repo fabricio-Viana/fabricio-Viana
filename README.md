@@ -8,5 +8,3 @@
 fabricio-Viana/fabricio-Viana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img src="![226777](https://github.com/user-attachments/assets/9662d54a-dc6d-4213-9b21-cd214e8158a5)" alt="Texto Alternativo">
