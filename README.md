@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabricio-Viana
 - 👀 I’m interested in JAVA and JavaScript.
-- 🌱 I’m currently learning JAVA, JavaScript and Python
+- 🌱 I’m currently learning JAVA, JavaScript
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me +55 61 992812209 or fabricio.viana.2301@gmail.com
 <!---
