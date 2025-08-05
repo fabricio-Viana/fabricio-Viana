@@ -2,8 +2,6 @@
 
 ### 🚀 Desenvolvedor Full Stack 
 
-Apaixonado por criar soluções web robustas e elegantes. Atualmente mergulhado no ecossistema Ruby on Rails, construindo aplicações que fazem a diferença.
-
 ### 🎯 Atualmente
 
 - 🌱 Aprimorando minhas habilidades em **Ruby on Rails**
