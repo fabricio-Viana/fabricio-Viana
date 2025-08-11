@@ -12,8 +12,6 @@
 
 - 📧 **Email:** fabricio.viana.2301@gmail.com
 - 📱 **WhatsApp:** +55 61 99281-2209
-- 💼 **LinkedIn:** [Seu LinkedIn aqui]
-- 🌐 **Portfolio:** [Em construção...]
 
 ### 📊 GitHub Stats
 
